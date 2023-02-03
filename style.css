@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #1d2029;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lang_container {
+    display: flex;
+    width: 500px;
+    align-items: center;
+    transform: translateX(110%);
+}
+.col1 {
+    width: 40%;
+    float: left;
+    justify-content: space-between;
+}
+
+.col2 {
+    width: 60%;
+}
+
+.java {
+    width: 40%;
+    height: auto;
+}
+.img1 {
+    margin: 0;
+    width: 120px;
+    border-radius: 100px;
+}
+
+.img2 {
+    margin: 0;
+    width: 120px;
+    border-radius: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+    display: inline;
+}
+
+h2 {
+    text-align: center;
+    font-size: 150%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 120%;
+}
+
+p {
+    text-align: center;
+}
+
+.section_1 {
+    padding: 22%;
+}
+
+.section_2 {
+    color: black;
+    background-color: #E2DED0;
+    
+}
+
+.section_3 {
+    color: green;
+    background-color: #ffffff;
+}
+
+.profile_picture {
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+}
+.description {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-family: 'Itim', cursive;
+}
+
+uo {
+    font-family: 'Itim', cursive;
+    display: table;
+    margin: 0 auto;
+}
+
+dl {
+    font-family: 'Itim', cursive;
+    display: table;
+    margin: 0 auto;
+}
+
+
+dl {
+    font-family: 'Itim', cursive;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    text-decoration: underline;
+}
+
+.button_contact {
+    display: table;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 2px dashed black;
+}
+
+.git {
+    font-size: 100%;
+    background: white;
+    color: Green;
+    border: 1px solid black;
+    border-radius: 100px;
+
+}
+
+.card {
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    border-radius: 20px;
+}
+
+.contactme {
+    margin-left: 20%;
+}
+
+input {
+    border-radius: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+}
+
+.ugaimg {
+    width: 100px;
+    border-radius: 10px;
+}
+
+.name {
+    margin-left: 20px;
+    margin-right: 20px;
+}
